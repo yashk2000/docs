@@ -1,3 +1,3 @@
-[Resume](https://github.com/yashk2000/docs/blob/master/resume.pdf)
+[Resume](https://yashk2000.github.io/docs/resume.pdf)
 
-[Curriculum Vitae](https://github.com/yashk2000/docs/blob/master/cv.pdf)
+[Curriculum Vitae](https://yashk2000.github.io/docs/cv.pdf)
